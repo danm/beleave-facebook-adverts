@@ -1,0 +1,22 @@
+{
+  "name": "beleave-facebook-adverts",
+  "version": "1.0.0",
+  "description": "Playing around with data from FB around Vote Leave advertising campaign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danm/beleave-facebook-adverts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danm/beleave-facebook-adverts/issues"
+  },
+  "homepage": "https://github.com/danm/beleave-facebook-adverts#readme",
+  "dependencies": {
+    "pdf.js-extract": "0.0.9"
+  }
+}
