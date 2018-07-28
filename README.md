@@ -1,5 +1,2 @@
 # beleave-facebook-adverts
-Playing around with data from FB around Vote Leave advertising campaign
-
-The PDF files that DCMS provided we not easy to work with in terms of analysis. This script extracts data from the PDF and places it in an Excel file so people can easily work with it. Data is also available in JSON and TSV.
-
+Advertising from leave campaigns including DUP, VoteLeave, BrexitCentral, BeLeave handed over by facebook to DCMS - I've flattened them to make them easier to work with and analyse. All content extracted from the PDFs which are also included in this repo originally shared from https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Fake_news_evidence/Ads-supplied-by-Facebook-to-the-DCMS-Committee.pdf
